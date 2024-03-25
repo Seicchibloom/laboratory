@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         "Who is a returnee student \n\n A) Charlie \n\n B) Alezander \n\n C) Rob",
         "Who has many friends in Lasalle? \n\n A) Charlie \n\n B) Derince \n\n C) Rob"
     )
-    private var rightAnswers = listOf(1, 2, 1, 1)
+    private var rightAnswers = listOf(1, 1, 2, 1)
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
